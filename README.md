@@ -15,7 +15,6 @@ For more information about contributing, see
 For more information about concepts used in these container images, see the
 [Landing page](https://github.com/sclorg/welcome).
 
-
 Versions
 ---------------
 Node.JS versions currently provided are:
@@ -158,4 +157,3 @@ Repository organization
         * **run**
 
             This script runs the [S2I](https://github.com/openshift/source-to-image) test framework.
-
