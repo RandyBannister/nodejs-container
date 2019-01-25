@@ -4,8 +4,7 @@ var port = process.env.PORT || process.env.port || process.env.OPENSHIFT_NODEJS_
 
 var server = http.createServer(function(req, res) {
   res.writeHead(200);
-  res.end('Hello World!');
+  res.end('Hello World!!!');
 });
 server.listen(port);
-
 console.log("Server running on " + ip + ":" + port);
